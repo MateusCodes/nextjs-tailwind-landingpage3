@@ -34,6 +34,7 @@ const Hero = () => {
           <Image
             width={579}
             height={386}
+            priority={true}
             src="/hero-bg.png"
             blurDataURL="/hero-bg.png"
             placeholder="blur"
