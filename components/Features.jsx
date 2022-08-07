@@ -13,7 +13,7 @@ const Features = () => {
         </p>
       </div>
       {/* Feature 1 */}
-      <div className="relative mt-20 lg:mt-24">
+      <div data-aos="zoom-in" className="relative mt-20 lg:mt-24">
         <div className="container flex flex-col items-center justify-center gap-x-24 lg:flex-row">
           <div className="z-10 mb-10 flex flex-1 justify-center lg:mb-0">
             <Image
@@ -59,7 +59,7 @@ const Features = () => {
         ></div>
       </div>
       {/* Feature 2 */}
-      <div className="relative mt-20 lg:mt-52">
+      <div data-aos="zoom-in" className="relative mt-20 lg:mt-52">
         <div className="container flex flex-col items-center justify-center gap-x-24 lg:flex-row-reverse">
           <div className="z-10 mb-10 flex flex-1 justify-center lg:mb-0">
             <Image
@@ -102,7 +102,7 @@ const Features = () => {
         ></div>
       </div>
       {/* Feature 3 */}
-      <div className="relative mt-20 lg:mt-52">
+      <div data-aos="zoom-in" className="relative mt-20 lg:mt-52">
         <div className="container flex flex-col items-center justify-center gap-x-24 lg:flex-row">
           <div className="z-10 mb-10 flex flex-1 justify-center lg:mb-0">
             <Image

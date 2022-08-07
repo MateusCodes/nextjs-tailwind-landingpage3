@@ -2,7 +2,7 @@ import React from 'react';
 
 const FAQ = () => {
   return (
-    <section className="bg-bookmarkWhite py-20">
+    <section data-aos="fade-left" className="bg-bookmarkWhite py-20">
       <div className="container">
         <div className="mx-auto px-2 sm:w-3/4 lg:w-5/12">
           <h1 className="text-center text-3xl text-bookmarkBlue">

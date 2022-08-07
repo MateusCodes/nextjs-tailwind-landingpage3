@@ -2,7 +2,7 @@ import React from 'react';
 
 const Contact = () => {
   return (
-    <section id="contact" className="bg-bookmarkPurple py-20 text-white">
+    <section data-aos="zoom-out" id="contact" className="bg-bookmarkPurple py-20 text-white">
       <div className="container">
         <div className="mx-auto sm:w-3/4 lg:w-2/4">
           <p className="mb-8 text-center font-light uppercase">

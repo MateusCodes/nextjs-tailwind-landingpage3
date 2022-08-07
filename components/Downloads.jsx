@@ -3,7 +3,7 @@ import Image from 'next/future/image';
 
 const Downloads = () => {
   return (
-    <section id="pricing" className="mt-20 py-20">
+    <section data-aos="fade-right" id="pricing" className="mt-20 py-20">
       <div className="mx-auto px-2 sm:w-3/4 lg:w-5/12">
         <h1 className="text-center text-3xl text-bookmarkBlue">
           Download the extension
