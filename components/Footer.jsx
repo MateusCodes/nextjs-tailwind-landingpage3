@@ -10,8 +10,8 @@ const Footer = () => {
           <Image
             width={148}
             height={25}
-            src="/logo-bookmark-white.png"
-            blurDataURL="/logo-bookmark-white.png"
+            src="/bg-transparent-white-color-small.png"
+            blurDataURL="/bg-transparent-white-color-small.png"
             placeholder="blur"
             alt="Bookmark Logo White"
           />

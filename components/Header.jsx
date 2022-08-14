@@ -20,8 +20,8 @@ const Header = () => {
           <Image
             width={148}
             height={25}
-            src="/logo-bookmark.png"
-            blurDataURL="/logo-bookmark.png"
+            src="/bg-transparente-black-color-small.png"
+            blurDataURL="/bg-transparente-black-color-small.png"
             placeholder="blur"
             alt="Bookmark Logo"
           />
